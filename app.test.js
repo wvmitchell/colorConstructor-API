@@ -7,6 +7,7 @@ describe("Server", () => {
   it("should pass a test", () => {
     expect(true).toEqual(true);
   });
+
   // beforeEach(async () => {
   //   await database.seed.run();
   // });
